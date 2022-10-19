@@ -1,17 +1,17 @@
 body {
-    background-color:#1C1C1C;
+    background-color:#1f1f1f;
 }
 
 .texto-principal {
-    margin-right: 20%; 
+    margin-right: 20%;
 }
 
 h1 {
-    color: #D3D3D3;
+    color: ##fa4b00;
     text-align: center;
 }
 h2 {
-    color: #483D8B;
+    color: ##fa4b00;
 }
 p {
     color:  #5F9EA0;
@@ -20,39 +20,18 @@ p {
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 5px dotted salmon;
+    border: 5px dotted #7a5b3e ;
     float: left;
     position: absolute;
 }
 
 .itens {
-	color:  #5F9EA0;
+	color:  #cdbdae;
 	text-decoration: underline;
 }
-.texto-principal {
-    margin-right: 20%; 
-}
 
-h1 {
-    color: #D3D3D3;
-    text-align: center;
-}
-h2 {
-    color: #483D8B;
-}
-p {
-    color:  #5F9EA0;
-
-}
-#imagem-principal {
-    width: 10%;
-    margin-left: 80%;
-    border: 5px dotted salmon;
-    float: left;
-    position: absolute;
-}
-
-.itens {
-	color: blue;
-	text-decoration: underline;
-}
+/*.color1 { #7a5b3e };
+.color2 { #fafafa };
+.color3 { #fa4b00 };
+.color4 { #cdbdae };
+.color5 { #1f1f1f };*/
