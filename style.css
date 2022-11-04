@@ -2,21 +2,27 @@ body {
     background-color:#1f1f1f;
 }
 
+h1 {
+    color: ##fa4b00;
+    text-align: left;
+}
+
+#logo{
+    width: 10%;
+}
+
+h2 {
+    color: ##fa4b00;
+}
+
 .texto-principal {
     margin-right: 20%;
 }
 
-h1 {
-    color: ##fa4b00;
-    text-align: center;
-}
-h2 {
-    color: ##fa4b00;
-}
 p {
     color:  #5F9EA0;
-
 }
+
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
@@ -25,10 +31,38 @@ p {
     position: absolute;
 }
 
+header{
+  background-color: black;
+}
+
+nav li{
+  font-size: 30px;
+  display: flex;
+  margin-right: 5%;
+}
+
+nav ul{
+  display: flex;
+}
+
+nav a{
+  text-transform: uppercase;
+  text-decoration:none;
+}
+
+.navigation{
+  border: 5px dotted #ffffff;
+  padding:5%;
+  margin: 5%;
+}
+
 .itens {
 	color:  #cdbdae;
 	text-decoration: underline;
+  display: block;
 }
+
+
 
 /*.color1 { #7a5b3e };
 .color2 { #fafafa };
