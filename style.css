@@ -1,5 +1,6 @@
 body {
     background-color:#1f1f1f;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -74,7 +75,7 @@ h2{
   margin:5%;
 }
 #sobre {
-    width: 10%;
+    width: 12%;
     float: left;
     margin-left:5%;
     margin-right: 2%;
@@ -108,19 +109,19 @@ h3{
 
 /** Design externo-------------------------------------------------------------
 Disponivel em: https://www.loopnerd.com.br/artigos/css3/como-fazer-um-botao-animado-com-html-e-css/ **/
-.box-btn { text-align:center;
+.box-btn { text-align:left;
 }
 
 .btn {
-  position: relative;
+  position:relative;
   display: block;
   cursor: pointer;
   outline: none;
   text-decoration: none;
   vertical-align: middle;
-  margin-left:5%;
-  margin-right:5%;
-  margin-top: 2%;
+  margin-left:18.7%;
+  margin-right:60%;
+  margin-top: 3%
 }
 
 .btn.elastico {
@@ -141,4 +142,11 @@ Disponivel em: https://www.loopnerd.com.br/artigos/css3/como-fazer-um-botao-anim
     margin-left:5%;
     margin-right: 2%;
     margin-top: 2%;
+}
+
+h5{
+  font-size: 30px;
+  color: #ff004d;
+  text-align: center;
+  font-family: 'Rubik Glitch', cursive;
 }
